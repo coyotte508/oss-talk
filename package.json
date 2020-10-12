@@ -1,0 +1,23 @@
+{
+  "name": "oss-talk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.3.0",
+    "zenika-formation-framework": "3.5.0"
+  },
+  "config": {
+    "deploy": {
+      "name": "oss-talk"
+    }
+  },
+  "scripts": {
+    "serve": "grunt",
+    "pdf": "grunt pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coyotte508/oss-talk"
+  }
+}

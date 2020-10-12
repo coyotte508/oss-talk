@@ -1,0 +1,93 @@
+.red {
+	color: #AF1E3A;
+}
+
+.green {
+  color: #78A800;
+}
+
+.questionInside {
+  display: flex !important;
+  height: 15%;
+  align-items: center;
+}
+
+.questionInside img {
+  margin: 0 !important;
+}
+
+#main-title img.main-logo {
+  width: 150px;
+  margin: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.toc h2 {
+  padding-bottom: 10px;
+}
+
+.toc li {
+  margin: 0.6em 0 0 0;
+}
+
+.reveal section.page-tp1:after {
+  content: "Lab 1";
+}
+.reveal section.page-tp2:after {
+  content: "Lab 2";
+}
+.reveal section.page-tp3:after {
+  content: "Lab 3";
+}
+.reveal section.page-tp4:after {
+  content: "Lab 4";
+}
+.reveal section.page-tp5:after {
+  content: "Lab 5";
+}
+.reveal section.page-tp6:after {
+  content: "Lab 6";
+}
+.reveal section.page-tp7:after {
+  content: "Lab 7";
+}
+.reveal section.page-tp8:after {
+  content: "Lab 8";
+}
+.reveal section.page-tp9:after {
+  content: "Lab 9 - Bonus";
+}
+.reveal section.page-tp10:after {
+  content: "Lab 10 - Bonus";
+}
+.reveal section.page-tp11:after {
+  content: "Lab 11";
+}
+.reveal section.page-tp12:after {
+  content: "Lab 12";
+}
+.reveal section.page-tp13:after {
+  content: "Lab 13 - Bonus";
+}
+.reveal section.page-tp14:after {
+  content: "Lab 14";
+}
+.reveal section.page-tp15:after {
+  content: "Lab 15";
+}
+.reveal section.page-tp16:after {
+  content: "Lab 16";
+}
+.reveal section.page-tp17:after {
+  content: "Lab 17";
+}
+.reveal section.page-tp18:after {
+  content: "Lab 18";
+}
+.reveal section.page-tp19:after {
+  content: "Lab 19";
+}
+.reveal section.page-tp20:after {
+  content: "Lab 20";
+}
