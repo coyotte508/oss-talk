@@ -7,12 +7,23 @@
 ## Lichess
 
 Le site web comme atout
+<br>
+<br>
+<br>
+
+<img class="main-logo" src="ressources/lichess.png" alt=""/>
 
 
 
 ## Tidepool
 
 Subventions
+<br>
+<br>
+<br>
+<br>
+
+<img class="main-logo" src="ressources/tidepool.jpg" alt=""/>
 
 
 
@@ -20,17 +31,27 @@ Subventions
 
 Support / Expertise
 
+<img class="main-logo" src="ressources/Elasticsearch.png" alt=""/>
+
 
 
 ## MongoDB
 
 Services annexes: Hébergement spécialisé
 
+<br>
+<br>
+<br>
+<img class="main-logo" src="ressources/mongo.png" alt=""/>
+
 
 
 ## Serenity OS
 
 Support de la communauté, mécènes
+
+<!-- .element: style="height: 70%;" -->
+![stream](./ressources/serenity.png)
 
 
 
