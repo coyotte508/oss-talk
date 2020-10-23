@@ -29,3 +29,15 @@ En tant qu'entreprise:
     - Utiliser l'open source pour augmenter la popularité du produit
     - Vendre de l'expertise à côté
 - Selon vos clients: administrations, développeurs...
+
+
+
+## Projets d'entreprise open sourcés
+
+- Warp10
+- urql
+- Formik
+- Enzyme
+- GraphQL, React
+- Bootstrap
+- Angular
